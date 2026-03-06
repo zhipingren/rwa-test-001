@@ -1,6 +1,7 @@
 {
   "name": "vite-vue-template",
   "entry": "/index.js",
+  "installCommand": "npm install",
   "assets": {
     "directory": "/src/assets",
     "notFoundStrategy": "singlePageApplication"
